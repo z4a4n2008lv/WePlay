@@ -1,0 +1,58 @@
+[{
+	"id": "0",
+	"event_type": "FOOTBALL",
+	"description": "Hello World",
+	"fees": 20,
+	"duartion_hours": 1,
+	"duration_minutes": 59,
+	"location": {
+		"longitude": 30.0444,
+		"latitude": 31.2357
+	},
+	"min_points": 90,
+	"start_datetime": "2017-02-15 18:09:16",
+	"end_datetime": "2017-02-15 20:09:16",
+	"days_left": 5,
+	"points": 50,
+	"min_leave_hours": 2,
+	"players_count": 10,
+	"reserved_count": 2
+}, {
+	"id": "2",
+	"event_type": "FOOTBALL",
+	"description": "Hello World",
+	"fees": 20,
+	"duartion_hours": 2,
+	"duration_minutes": 59,
+	"location": {
+		"longitude": 30.0444,
+		"latitude": 31.2357
+	},
+	"min_points": 90,
+	"start_datetime": "2017-02-10 18:09:16",
+	"end_datetime": "2017-02-10 20:09:16",
+	"days_left": 5,
+	"points": 40,
+	"min_leave_hours": 2,
+	"players_count": 14,
+	"reserved_count": 2
+}, {
+	"id": "2",
+	"event_type": "FOOTBALL",
+	"description": "Hello World",
+	"fees": 20,
+	"duartion_hours": 3,
+	"duration_minutes": 59,
+	"location": {
+		"longitude": 30.0444,
+		"latitude": 31.2357
+	},
+	"min_points": 90,
+	"start_datetime": "2017-02-1 08:09:16",
+	"end_datetime": "2017-02-1 10:09:16",
+	"days_left": 5,
+	"points": 40,
+	"min_leave_hours": 2,
+	"players_count": 20,
+	"reserved_count": 2
+}]
